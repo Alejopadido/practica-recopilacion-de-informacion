@@ -1,0 +1,21 @@
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	reddit.com
+Address: 151.101.193.140
+Name:	reddit.com
+Address: 151.101.129.140
+Name:	reddit.com
+Address: 151.101.65.140
+Name:	reddit.com
+Address: 151.101.1.140
+Name:	reddit.com
+Address: 2a04:4e42:200::396
+Name:	reddit.com
+Address: 2a04:4e42:400::396
+Name:	reddit.com
+Address: 2a04:4e42:600::396
+Name:	reddit.com
+Address: 2a04:4e42::396
+
